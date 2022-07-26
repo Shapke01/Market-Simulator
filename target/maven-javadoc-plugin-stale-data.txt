@@ -1,0 +1,68 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/roboc/.m2/repository/org/jfree/jfreechart/1.0.19/jfreechart-1.0.19.jar;C:/Users/roboc/.m2/repository/org/jfree/jcommon/1.0.23/jcommon-1.0.23.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MarketSimulator 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'MarketSimulator 1.0-SNAPSHOT API'
+put.oop.marketsimulator
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/Asset.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/ChartGUI.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/Commodity.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/CommodityMarket.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/CompaniesGUI.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/Company.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/Currency.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/CurrencyMarket.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/GUI.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/IndexGUI.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/InvestmentFund.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/Investor.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/Main.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/Market.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/Stock.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/StockMarket.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/User.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/Wallet.java'
+'C:/Users/roboc/OneDrive/Pulpit/MarketSimulator/src/main/java/put/oop/marketsimulator/World.java'
+C:\Users\roboc\.m2\repository\org\jfree\jfreechart\1.0.19\jfreechart-1.0.19.jar = 1642846962686
+C:\Users\roboc\.m2\repository\org\jfree\jcommon\1.0.23\jcommon-1.0.23.jar = 1642846962612
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\src\main\java = 1640795163878
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\allclasses-index.html = 1643495134382
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\allpackages-index.html = 1643495134385
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\element-list = 1643495134210
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\help-doc.html = 1643495134444
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\index-all.html = 1643495134435
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\index.html = 1643495134438
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\jquery-ui.overrides.css = 1643495134484
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\member-search-index.js = 1643495134392
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\module-search-index.js = 1643495134387
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\overview-tree.html = 1643495134347
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\package-search-index.js = 1643495134388
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\script.js = 1643495134448
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\search.js = 1643495134451
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\stylesheet.css = 1643495134447
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\tag-search-index.js = 1643495134394
+C:\Users\roboc\OneDrive\Pulpit\MarketSimulator\target\site\apidocs\type-search-index.js = 1643495134390
