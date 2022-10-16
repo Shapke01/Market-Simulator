@@ -4,6 +4,9 @@
  */
 package put.oop.marketsimulator;
 
+import put.oop.marketsimulator.Additional.World;
+import put.oop.marketsimulator.GUIs.GUI;
+
 /**
  *
  * @author roboc
